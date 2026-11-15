@@ -7,8 +7,8 @@ data is still there the next time the program runs.
 
 Built for the *Introduction to Python Programming* project.
 
-- **Name:** YOUR FULL NAME
-- **Matric number:** YOUR MATRIC NUMBER
+- **Name:** Jackbara-Johnson Tamunoikiabo Gideon
+- **Matric number:** 24/sci01/102
 - **Department:** Computer Science
 
 ## How to run
@@ -16,7 +16,7 @@ Built for the *Introduction to Python Programming* project.
 You need Python 3.8 or newer. No extra packages are required.
 
 ```
-git clone https://github.com/YOUR-USERNAME/student-result-system.git
+git clone https://github.com/Gideoski/student-result-system.git
 cd student-result-system
 python main.py
 ```
